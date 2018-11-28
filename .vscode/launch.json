@@ -19,6 +19,7 @@
             "host": "localhost"
         },
         {
+<<<<<<< HEAD
             "name": "Python: Module",
             "type": "python",
             "request": "launch",
@@ -26,6 +27,8 @@
             "console": "integratedTerminal"
         },
         {
+=======
+>>>>>>> 80d61cf2d32b904c0f58e2049955e4bc306541ab
             "name": "Python: Django",
             "type": "python",
             "request": "launch",
